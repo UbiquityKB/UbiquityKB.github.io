@@ -7,8 +7,8 @@ I am a Software Engineer, AWS Certified Solutions Architect, and Ubiquiti Broadb
 Skills
 Here are some of my skills:
 
-Programming languages: HTML, CSS, Node.js, Express.js, SQL/noSQL, UNIX/Linux
-Frameworks and libraries: Bootstrap, Bulma
+Programming languages: HTML, CSS, JavaScript, SQL/noSQL, UNIX/Linux
+Frameworks and libraries: React.js, Node.js, Express.js, Bootstrap, Bulma
 Tools and technologies: Data Analysis, MS Excel, Agile Methodology, GIT/Github, HubSpot Marketing Automation
 
 Projects
